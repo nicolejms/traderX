@@ -1,0 +1,8 @@
+{
+  "experimentalFeaturesEnabled": {
+    "extensibility": true
+  },
+  "extensions": {
+    "radius": "br:ghcr.io/radius-project/extensions/radius:latest"
+  }
+}
